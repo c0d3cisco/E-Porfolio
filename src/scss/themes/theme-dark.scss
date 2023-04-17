@@ -51,6 +51,10 @@ body[data-theme="dark"] {
          background: #6d6d6d;
          color: white;
       }
+      p {
+         white-space: pre-line;
+         vertical-align: bottom;
+      }
    }
 
    #portfolio {
