@@ -1,20 +1,20 @@
 {
     "basic_info": {
       "name": "Francisco Sanchez",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Engineer; Software Developer; Army Veteran" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/c0d3cisco",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/c0d3cisco/",
+          "class": "fab fa-linkedin"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "HeadShot250x200.png"
     },
     "skills": {
       "icons": [
