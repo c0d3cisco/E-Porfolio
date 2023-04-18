@@ -38,3 +38,14 @@ Finish time: 9:06pm
 
 Actual time needed to complete: 36min
 
+## Personalize
+
+Description: As a user, I want the site to reflect the personal style and feel of the developer, so that I can distinguish them from the average dev.
+
+Estimate of time needed to complete: 45min
+
+Start time: 5:32pm
+
+Finish time: 6:47pm
+
+Actual time needed to complete: 75min
