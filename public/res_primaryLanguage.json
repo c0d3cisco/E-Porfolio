@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Cisco's Coding Corner",
-      "description": "👋 I'm Francisco Sanchez; many know me by Cisco. I became a software developer to be at the center of complex problems. With my background in biochemistry, psychology, and mechanical engineering, I bring a unique perspective to my work as a software developer. \n \n As someone who thrives on solving complex problems, I'm excited to be in a field that constantly presents new challenges and opportunities to innovate. I believe that my interdisciplinary background equips me with a well-rounded perspective that can help me to create innovative solutions in a variety of industries. \n \n My passion for problem-solving is matched by my commitment to ongoing learning and growth. I'm always looking for new technologies and techniques to enhance my skills and stay ahead of emerging trends. I'm excited about the potential of software to transform industries and improve people's lives, and I'm eager to be a part of that change. \n \n As a software developer, I'm committed to creating solutions that make a positive impact on the world. Whether it's developing software for healthcare, manufacturing, or any other industry, I'm confident that my skills and experience can help me to make a meaningful difference.  \n \n  I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Francisco Sanchez; many know me by Cisco. I became a software developer to be at the center of complex problems. With my background in biochemistry, psychology, and mechanical engineering, I bring a unique perspective to my work as a software developer. \n \n As someone who thrives on solving complex problems, I'm excited to be in a field that constantly presents new challenges and opportunities to innovate. I believe that my interdisciplinary background equips me with a well-rounded perspective that can help me to create innovative solutions in a variety of industries. \n \n My passion for problem-solving is matched by my commitment to ongoing learning and growth. I'm always looking for new technologies and techniques to enhance my skills and stay ahead of emerging trends. I'm excited about the potential of software to transform industries and improve people's lives, and I'm eager to be a part of that change. \n \n As a software developer, I'm committed to creating solutions that make a positive impact on the world. Whether it's developing software for healthcare, manufacturing, or any other industry, I'm confident that my skills and experience can help me to make a meaningful difference.  \n \n  I'm working with newest front-end frameworks like React. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -78,37 +78,28 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Lima Corporate",
+        "title": "Process Engineer",
+        "years": "05.2020 - 04.2023",
         "mainTech": [
-          "Angular 8/9/10"
+          "SolidWorks"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "SolidWorks",
+          "JD Edwards EnterpriseOne",
+          "YouTrack"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "University of Tennessee, Knoxville",
+        "title": "Teacher's Assistant",
+        "years": "08.2018 - 05.2020",
         "mainTech": [
-          "Angular 7/8"
+          "MATLAB"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "MATLAB",
+          "Arduino"
         ]
       }
     ]
