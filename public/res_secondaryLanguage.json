@@ -1,82 +1,79 @@
 {
     "basic_info": {
       "description_header": "Cześć",
-      "description": "👋 Jestem Francisco Sanchez. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Code Fellows. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description": "👋 soy Francisco Sánchez; muchos me conocen por Cisco. Me convertí en desarrollador de software para estar en el centro de problemas complejos. Con mi experiencia en bioquímica, psicología e ingeniería mecánica, aporto una perspectiva única a mi trabajo como desarrollador de software. \n \n Como alguien que prospera resolviendo problemas complejos, me emociona estar en un campo que constantemente presenta nuevos desafíos y oportunidades para innovar. Creo que mi experiencia interdisciplinaria me proporciona una perspectiva integral que puede ayudarme a crear soluciones innovadoras en una variedad de industrias. \n \n Mi pasión por la resolución de problemas se combina con mi compromiso con el aprendizaje y el crecimiento continuos. Siempre estoy buscando nuevas tecnologías y técnicas para mejorar mis habilidades y adelantarme a las tendencias emergentes. Estoy entusiasmado con el potencial del software para transformar industrias y mejorar la vida de las personas, y estoy ansioso por ser parte de ese cambio. \n \n Como desarrollador de software, estoy comprometido con la creación de soluciones que tengan un impacto positivo en el mundo. Ya sea que esté desarrollando software para atención médica, manufactura o cualquier otra industria, estoy seguro de que mis habilidades y experiencia pueden ayudarme a marcar una diferencia significativa. \n \n Estoy trabajando con los marcos front-end más nuevos como Angular, React y Vue. Lo que está viendo ahora es una plantilla de cartera de Code Fellows. Si te gusta esta plantilla de portafolio, asegúrate de ⭐ el repositorio para que sea más reconocible para otros usuarios. Gracias 💜",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "Acerca de mí",
+        "projects": "Proyectos",
+        "skills": "Habilidades Técnica",
+        "experience": "Experiencia"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "title": "Odd Duck Analyzer",
+        "startDate": "2023",
+        "description": "Esta aplicación se creó para una tarea de Code Fellows. La aplicación es para analizar productos preferidos de selecciones generadas aleatoriamente de un tamaño de grupo designado. La aplicación garantiza que no se muestre una imagen duplicada a la vez o que no se muestre la misma imagen consecutivamente en rondas.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/oddDuck/OddDuck1.png",
+          "images/portfolio/oddDuck/OddDuck2.png",
+          "images/portfolio/oddDuck/OddDuck3.png"
         ],
-        "url": "",
+        "url": "https://github.com/c0d3cisco/Odd_Duck",
         "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain-wordmark",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-html5-plain-wordmark",
+            "name": "HTML"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "title": "ByteSize Adventures",
+        "startDate": "2023",
+        "description": "Esta es una aplicación para que los niños en edad preescolar de todo el mundo se entretengan sin la supervisión de los padres. La idea es tener una aplicación que permita a los niños navegar por el sitio web por su cuenta y descubrir algunas vías diferentes de interactividad, como: una página de inicio con la pregunta de elegir su color favorito y hacer que la página aparezca con ese color, haciendo clic en una imagen que los vincula a sus videos favoritos, una página separada para un juego basado en la física y un rastreador de recompensas/progreso para que puedan ver lo que han hecho la próxima vez que accedan al sitio web.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/byteSize/ByteSize1.png",
+          "images/portfolio/byteSize/ByteSize2.png",
+          "images/portfolio/byteSize/ByteSize3.png",
+          "images/portfolio/byteSize/ByteSize4.png",
+          "images/portfolio/byteSize/ByteSize5.png",
+          "images/portfolio/byteSize/ByteSize6.png",
+          "images/portfolio/byteSize/ByteSize7.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/code201d98-Team1/ByteSizeAdventurez",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain-wordmark",
+            "name": "CSS"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-html5-plain-wordmark",
+            "name": "HTML"
           }
         ]
+      },
+      {
+        "title": "Code 301 Final",
+        "startDate": "2023",
+        "description": "TBD",
+        "images": [
+          "http://via.placeholder.com/640x360",
+          "http://via.placeholder.com/640x360"
+        ],
+        "url": "",
+        "technologies": []
       }
     ],
     "experience": [
