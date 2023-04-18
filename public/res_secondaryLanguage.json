@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 soy Francisco Sánchez; muchos me conocen por Cisco. Me convertí en desarrollador de software para estar en el centro de problemas complejos. Con mi experiencia en bioquímica, psicología e ingeniería mecánica, aporto una perspectiva única a mi trabajo como desarrollador de software. \n \n Como alguien que prospera resolviendo problemas complejos, me emociona estar en un campo que constantemente presenta nuevos desafíos y oportunidades para innovar. Creo que mi experiencia interdisciplinaria me proporciona una perspectiva integral que puede ayudarme a crear soluciones innovadoras en una variedad de industrias. \n \n Mi pasión por la resolución de problemas se combina con mi compromiso con el aprendizaje y el crecimiento continuos. Siempre estoy buscando nuevas tecnologías y técnicas para mejorar mis habilidades y adelantarme a las tendencias emergentes. Estoy entusiasmado con el potencial del software para transformar industrias y mejorar la vida de las personas, y estoy ansioso por ser parte de ese cambio. \n \n Como desarrollador de software, estoy comprometido con la creación de soluciones que tengan un impacto positivo en el mundo. Ya sea que esté desarrollando software para atención médica, manufactura o cualquier otra industria, estoy seguro de que mis habilidades y experiencia pueden ayudarme a marcar una diferencia significativa. \n \n Estoy trabajando con los marcos front-end más nuevos como Angular, React y Vue. Lo que está viendo ahora es una plantilla de cartera de Code Fellows. Si te gusta esta plantilla de portafolio, asegúrate de ⭐ el repositorio para que sea más reconocible para otros usuarios. Gracias 💜",
+      "description_header": "Cisco's Coding Corner",
+      "description": "👋 soy Francisco Sánchez; muchos me conocen por Cisco. Me convertí en desarrollador de software para estar en el centro de problemas complejos. Con mi experiencia en bioquímica, psicología e ingeniería mecánica, aporto una perspectiva única a mi trabajo como desarrollador de software. \n \n Como alguien que prospera resolviendo problemas complejos, me emociona estar en un campo que constantemente presenta nuevos desafíos y oportunidades para innovar. Creo que mi experiencia interdisciplinaria me proporciona una perspectiva integral que puede ayudarme a crear soluciones innovadoras en una variedad de industrias. \n \n Mi pasión por la resolución de problemas se combina con mi compromiso con el aprendizaje y el crecimiento continuos. Siempre estoy buscando nuevas tecnologías y técnicas para mejorar mis habilidades y adelantarme a las tendencias emergentes. Estoy entusiasmado con el potencial del software para transformar industrias y mejorar la vida de las personas, y estoy ansioso por ser parte de ese cambio. \n \n Como desarrollador de software, estoy comprometido con la creación de soluciones que tengan un impacto positivo en el mundo. Ya sea que esté desarrollando software para atención médica, manufactura o cualquier otra industria, estoy seguro de que mis habilidades y experiencia pueden ayudarme a marcar una diferencia significativa. \n \n Estoy trabajando con los marcos front-end más nuevos como React. Lo que está viendo ahora es una plantilla de cartera de Code Fellows. Si te gusta esta plantilla de portafolio, asegúrate de ⭐ el repositorio para que sea más reconocible para otros usuarios. Gracias 💜",
       "section_name": {
         "about": "Acerca de mí",
         "projects": "Proyectos",
@@ -78,35 +78,28 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
+        "company": "Lima Corporate",
+        "title": "Ingeniero de procesos",
+        "years": "05.2020 - 04.2023",
         "mainTech": [
-          "Angular 8/9/10"
+          "SolidWorks"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
+          "SolidWorks",
+          "JD Edwards EnterpriseOne",
+          "YouTrack"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
+        "company": "University of Tennessee, Knoxville",
+        "title": "Asistente de Maestro",
+        "years": "08.2018 - 05.2020",
         "mainTech": [
-          "Angular 7/8"
+          "MATLAB"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "MATLAB",
+          "Arduino"
         ]
       }
     ]
