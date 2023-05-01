@@ -47,7 +47,7 @@ header {
 	background-size: cover;
 	padding-top: 150px;
 	padding-bottom: 0;
-	background-image: radial-gradient(#e2c884 10%, #E5C1B0 40%);
+	background-image: radial-gradient(#8684e28a 10%, #E5C1B0 40%);
 	background-size: 250% 250%;
 	animation: gradient 4s linear infinite;
 	background-position: 50% 50%;
@@ -123,7 +123,7 @@ header .nav {
 }
 
 .skills-tile {
-	background-color: transparentize(#F8F5F4, 0.95);
+	background-color: transparentize(#4d4d4dfb, 0.2);
 	padding: 10px 10px 5px 10px;
 	width: 100px;
 	margin: 5px 0 5px 0;
@@ -437,7 +437,7 @@ header h1 {
 }
 
 #skills {
-	background: #1F1F1F;
+	background: linear-gradient(0deg,rgba(44,44,44,.5),rgba(29,29,29,.5)),url(https://upload.wikimedia.org/wikipedia/commons/3/37/Wilson1900Fig2.jpg) no-repeat top fixed;
 	min-height: 200px;
 	width: 100%;
 	overflow: hidden;
